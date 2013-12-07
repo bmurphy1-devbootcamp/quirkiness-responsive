@@ -6,8 +6,6 @@
 
  */
 
-
-
 .grid_1 { width: 6.5%; }   /* 65px   */
 .grid_2 { width: 15%; }    /* 150px  */
 .grid_3 { width: 23.5%; }  /* 235px  */
@@ -33,7 +31,7 @@
 .grid_10,
 .grid_11,
 .grid_12 {
-  margin: 0 20px 10px 0;
+  margin: 0 2% 1% 0;
   float: left;
   display: block;
 }
