@@ -100,9 +100,51 @@ ul.nav li a {
 /* media queries */
 /* ------------ iPhone ---------- */
 @media screen and (max-width: 480px) {
+	.grid_1,
+	.grid_2,
+	.grid_3,
+	.grid_4,
+	.grid_5,
+	.grid_6,
+	.grid_7,
+	.grid_8,
+	.grid_9,
+	.grid_10,
+	.grid_11,
+	.grid_12 {
+	  width: 100%;
+  }
+
+  #nav ul {
+    margin: 5% 0;
+    --webkit-user-select: none;
+  }
+
+  #nav ul li {
+    float: left;
+    margin: 5% 0;
+  }
+
+  #nav ul li.about {
+    width: 20%;
+    text-align: left;
+  }
+  #nav ul li.apple {
+    width: 20%;
+    text-align: center;
+  }
+  #nav ul li.spilled {
+    width: 40%;
+    text-align: right;
+  }
+  #nav ul li.contact {
+    width: 100%;
+  }
 
 
 }
+
+
 
 
 /* ------------ iPad ------------ */
