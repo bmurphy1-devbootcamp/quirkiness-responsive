@@ -127,15 +127,12 @@ ul.nav li a {
 
   #nav ul li.about {
     width: 20%;
-    text-align: left;
   }
   #nav ul li.apple {
     width: 20%;
-    text-align: center;
   }
   #nav ul li.spilled {
     width: 40%;
-    text-align: right;
   }
   #nav ul li.contact {
     width: 100%;
