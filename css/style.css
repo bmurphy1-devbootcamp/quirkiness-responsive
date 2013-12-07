@@ -2,6 +2,7 @@ body {
 	font-family: 'Poiret One', sans-serif;
 	color: #FFFFFF;
 	background: #06266F;
+
 }
 
 a {
@@ -12,7 +13,6 @@ a {
 h1 {
 	color: #6C8CD5;
 	font-size: 1.750em;
-	letter-spacing: -1.5px;
 }
 
 h2 {
