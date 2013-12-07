@@ -97,9 +97,15 @@ ul.nav li a {
 }
 
 
+/* media queries */
+/* ------------ iPhone ---------- */
+@media screen and (max-width: 480px) {
 
 
+}
 
 
+/* ------------ iPad ------------ */
+@media and screen (max0width)
 
 
