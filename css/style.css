@@ -98,8 +98,8 @@ ul.nav li a {
 
 
 /* media queries */
-/* ------------ iPhone ---------- */
-@media screen and (max-width: 480px) {
+/* ------------ small ---------- */
+@media screen and (max-width: 720px) {
 	.grid_1,
 	.grid_2,
 	.grid_3,
@@ -144,7 +144,32 @@ ul.nav li a {
 
 
 
-/* ------------ iPad ------------ */
-@media and screen (max0width)
+/* ------------ medium ------------ */
+@media and screen (max-width: 877px;) {
+
+
+ #nav ul {
+    margin: 5% 0;
+    --webkit-user-select: none;
+  }
+
+  #nav ul li {
+    float: left;
+    margin: 5% 0;
+  }
+
+  #nav ul li.about {
+    width: 20%;
+  }
+  #nav ul li.apple {
+    width: 20%;
+  }
+  #nav ul li.spilled {
+    width: 40%;
+  }
+  #nav ul li.contact {
+    width: 100%;
+
+}
 
 
